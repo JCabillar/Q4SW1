@@ -1,0 +1,18 @@
+ <center>
+	<div class="container bg-light text-center p-5">
+		<h1>Question 2:</h1>
+		<p>What year was Javascript made?</p>
+		<a href="q2.html" class="btn btn-primary">
+			1995
+		</a>
+		<a href="fail.html" class="btn btn-primary">
+			1997
+		</a>
+		<a href="fail.html" class="btn btn-primary">
+			2023
+		</a>
+		<a href="fail.html" class="btn btn-primary">
+			2049
+		</a>
+	</div>
+    </center>
